@@ -40,7 +40,7 @@ You may also see any lint errors in the console.
 
 ### Usage
 
--Select the room type from the dropdown menu.
--Enter the number of adults and add children by specifying their ages and number.
--Click "Add Child" to include them in the calculation.
--The total cost will be displayed in the "Cost" panel.
+- Select the room type from the dropdown menu.
+- Enter the number of adults and add children by specifying their ages and number.
+- Click "Add Child" to include them in the calculation.
+- The total cost will be displayed in the "Cost" panel.
